@@ -4,7 +4,7 @@
 <h3 align="left">About with me:</h3>
 <h4 align="left">
 I feel most in my place while i'm working as a front developer. I love innovation and building useful products with a focus on the human using the product.
-I am characterized by my entrepreneurial character and my innovative ideas.
+I am characterized by my entrepreneurial spirit and my innovative ideas.
 </h4>
 
 <h3 align="left">Connect with me:</h3>
