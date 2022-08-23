@@ -19,7 +19,7 @@ I'm Jose, I live in Argentina and I recently graduated from Henry's bootcamp. <b
 
 <h3 align="left">Portafolio:</h3>
 <p align="left">
-<a href="[https://instagram.com/josellorett](https://portafolio-jose-lloret.netlify.app/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98347655/186052653-9dcb48ad-6624-45ae-9e22-0b422265e2aa.png" alt="josellorett" height="30" width="40" /></a>
+<a href="https://portafolio-jose-lloret.netlify.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98347655/186052653-9dcb48ad-6624-45ae-9e22-0b422265e2aa.png" alt="josellorett" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
