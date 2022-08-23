@@ -3,11 +3,12 @@
 
 <h3 align="left">About with me:</h3>
 <h4 align="left">
-I'm Jose, I live in Argentina and I recently graduated from Henry's bootcamp.
-I am currently studying to become an Accountant and I am also the founder of a clothing brand for high-performance athletes.
-
-My entrepreneurial and innovative spirit led me to venture into programming, where I found an infinite world of possibilities. Further down this website, you can find some of my first projects.
-Personally I am a sporty person, who likes music and spending time with friends. I characterize myself as a very dedicated person who is constantly seeking to achieve their goals.
+I'm Jose, I live in Argentina and I recently graduated from Henry's bootcamp. <br/>
+							I am currently studying to become an Accountant and I am also the founder of a clothing brand for high-performance athletes.
+							<br/>
+							<br/>
+							My entrepreneurial and innovative spirit led me to venture into programming, where I found an infinite world of possibilities. Further down this website, you can find some of my first projects.
+							<br/>Personally I am a sporty person, who likes music and spending time with friends. I characterize myself as a very dedicated person who is constantly seeking to achieve their goals.
 </h4>
 
 <h3 align="left">Connect with me:</h3>
